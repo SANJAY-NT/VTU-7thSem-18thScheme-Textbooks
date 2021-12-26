@@ -1,1 +1,1 @@
-
+7th sem notes
