@@ -7,4 +7,4 @@ Note:- The Textbook Pdf may be subjected to copyrights.
 (Share and Star the repo if you like.) 
  
 - For lab programs and other resources :- 
-Go to -> [Index Repo](https://github.com/SANJAY-NT/VTU-Resources)
+Go to -> [Index Repo](https://github.com/SANJAY-NT/VTU-Resources).
